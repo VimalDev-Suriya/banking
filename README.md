@@ -1,2 +1,3 @@
 # banking
-banking app using NEXT JS
+
+banking app using NEXT JS.
